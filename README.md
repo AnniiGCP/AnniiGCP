@@ -23,7 +23,7 @@
 | Project | Primary Domain | Core Architecture & Stack | Key Highlights |
 | :--- | :--- | :--- | :--- |
 | [**CodeBrain AI**](https://github.com/AnniiGCP/CodeBrain) | AI Software Intelligence & DevOps | Python, FastAPI, React 19, TypeScript, Tree-sitter, FAISS, Docker | AI codebase assistant with AST parsing, vector RAG Q&A, 16-section automated docgen, sandboxed patch validation, and CI/CD diagnostic engine. 244 test suite. |
-| [**Arcadeverse**](https://github.com/AnniiGCP/ArcadeVerse-Showcase) | Cloud Analytics & Gamification | React, TypeScript, Tailwind CSS, Express, MongoDB, Vercel | Production Google Cloud Arcade analytics tool with automated badge categorization, cohort milestone evaluation, and swag tier readiness projection (**5,486+ users**). |
+| [**Arcadeverse**](https://github.com/AnniiGCP/arcadeverse-dev) | Cloud Analytics & Gamification | React, TypeScript, Tailwind CSS, Express, MongoDB, Vercel | Production Google Cloud Arcade analytics tool with automated badge categorization, cohort milestone evaluation, and swag tier readiness projection (**5,486+ users**). |
 | [**QuizGenAI**](https://github.com/AnniiGCP/QuizGenAI) | GenAI & Orchestration | FastAPI, React, SQLite, Pydantic, LLM APIs | 🥈 **2nd Prize Winner** — API-first assessment engine with structured JSON schemas, dynamic quiz progression, and automated scoring heuristics. |
 | [**Guardian-AI**](https://github.com/AnniiGCP/Guardian-AI) | Threat Assessment & Cloud | Python, FastAPI, Modal Cloud, Whisper, Alembic | Real-time threat detection system with serverless ML deployment pipelines, transformer sequence scoring, and live alerts. |
 | [**Google Cloud Solutions**](https://github.com/AnniiGCP/Google-Cloud-Arcade) | Cloud Infrastructure & Automation | Shell, Bash, Google Cloud CLI, BigQuery, VPC, K8s | Comprehensive suite of 100+ automation scripts and solutions covering GCP compute, networking, data analysis, and serverless workflows. |
@@ -32,11 +32,12 @@
 
 ### 🛠️ Technical Competencies
 
-- **Languages**: Python, Java, C
-- **Framework & Libraries**: React, Next.js, FastAPI
-- **Databases**: PostgreSQL, MongoDB
-- **Infrastructure**: AWS (EC2, S3, Lambda), Google Cloud, Azure, Vercel
-- **Systems & DevOps**: Linux, Git, Bash, Docker, Jenkins
+- **Languages**: Python, Java, C/C++, JavaScript / TypeScript, SQL, Bash
+- **Cloud & Infrastructure**: AWS (EC2, S3, Lambda), Google Cloud Platform (GCP), Azure, Docker, Linux (Debian/Ubuntu), Jenkins, Git, Vercel
+- **Backend & Architecture**: FastAPI, REST APIs, Microservice Boundaries, Schema Validation (Pydantic), Uvicorn, WebSockets, Rate Limiting
+- **AI & Intelligent Systems**: LLM Orchestration, RAG Pipelines, Tree-sitter AST, Vector Embeddings (FAISS), PyTorch, Speech-to-Text (Whisper), Structured Outputs
+- **Databases & Storage**: PostgreSQL, MongoDB, SQLite, SQLAlchemy ORM
+- **Foundations & DevOps**: CI/CD Automation, Defensive Design, Linux Internals, Network Security, Data Structures & Algorithms
 
 ---
 
